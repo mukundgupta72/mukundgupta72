@@ -1,4 +1,4 @@
-<img src="techpic.webp" alt="Tech Professional Working" width="800"/>
+<img src="techpic.webp" alt="Tech Professional Working" height="500" width="100%vw"/>
 
 <h1 align="center">Hey There 👋, I'm Mukund Gupta</h1>
 <h3 align="center">A passionate CSE undergrad from BIT Mesra!</h3>
