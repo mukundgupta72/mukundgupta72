@@ -23,6 +23,9 @@
 ### 🔹 [To-Do-List](https://github.com/mukundgupta72/to-do-list)  
 A simple To-Do List app built with React (Next.js) and Tailwind CSS. It allows users to add, delete tasks and toggle between light and dark modes.
 
+### 🔹 [BMI-Calculator](https://github.com/mukundgupta72/BMI-Calculator)  
+A simple web-based BMI (Body Mass Index) Calculator built with React & Tailwind CSS. It allows users to calculate their BMI and provides health-related insights.
+
 More projects coming soon... 🚀  
 
 ---
